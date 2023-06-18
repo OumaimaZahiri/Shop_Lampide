@@ -1,0 +1,19 @@
+.dialog
+{
+    max-width: 650px;
+    justify-items: center;
+    align-items: center;
+}
+
+button {
+    text-align: center;
+    justify-items: center;
+    background-color: tan;
+    color: #ffff;
+    margin-botton: 20px;
+    min-width: 8ch;
+    min-height: 30px;
+    outline-color: transparent;
+    margin-top: none;
+  }
+  

@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Oums",
+      "surname": "Zahiri",
+      "email": "oums.zahiri@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Thomas",
+      "surname": "Vanvy",
+      "email": "thomas.vanvy@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Shoushou",
+      "surname": "Schuler",
+      "email": "shoushou.schuler@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Toto",
+      "surname": "Lolo",
+      "email": "toto.lolo@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Alicia",
+      "surname":"Carballo",
+      "email": "alicia.carballo@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Sully",
+      "surname": "Pero",
+      "email": "sully.pero@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Puel",
+      "surname": "Démission",
+      "email": "puel.demissions@asse.fr"
+    }
+  ]

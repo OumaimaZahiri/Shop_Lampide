@@ -1,0 +1,25 @@
+
+button {
+  text-align: center;
+  justify-items: center;
+  background-color: tan;
+  color: #ffff;
+  margin-botton: 20px;
+  min-width: 8ch;
+  min-height: 30px;
+    outline-color: transparent;
+    margin-top: none;
+}
+
+dialog {
+    margin-bottom: none;
+    text-align: center;
+    max-height: 500px;
+    max-width: 750px;
+    justify-items: center;
+}
+
+.dialog {
+    justify-items: center;
+    text-align: center;
+}

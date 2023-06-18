@@ -1,0 +1,102 @@
+[
+  {
+    "id":  1,
+    "picture": "../assets/products_images/1.jpg",
+    "name": "TVÄRHAND",
+    "price": 19.99,
+    "description": "Lampe de table",
+    "full_description": "La beauté est dans la simplicité. Une expression qui s'applique particulièrement bien à cette lampe de table en métal incurvé et base en bambou pour un joli contraste. Ajoutez-y une ampoule décorative qui vous plaît pour compléter le tout.",
+    "materials": "Base: bambou, Vernis polyuréthane-acrylique incolore \\n\\ Tube-Douille pour lampe acier revêtement époxy/polyester (poudre)",
+    "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Essuyer avec un chiffon sec."
+  },
+  {
+    "id": 2,
+    "picture": "../assets/products_images/2.jpg",
+    "name": "TERTIAL",
+    "price": 14.99,
+    "description": "Lampe de bureau",
+    "full_description": "La lampe de bureau TERTIAL a fait son apparition dans notre gamme en 1998. Le design classique, en acier, avec le bras et la tête de lampe réglables, en font un choix idéal si vous cherchez une lampe pour lire, à la fois efficace et flexible.",
+    "materials": "Bras: acier, revêtement époxy/polyester (poudre) \\n\\ Abat-jour: acier, revêtement époxy/polyester (poudre), peinture laque \\n\\ Fixation table/ Joint/ Poignée: plastique ABS",
+    "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. \\n\\ Terminer en essuyant avec un chiffon sec."
+  },
+  {
+    "id": 3,
+    "picture": "../assets/products_images/3.jpg",
+    "name": "ÅRSTID",
+    "price": 29.99,
+    "description": "Lampe de bureau",
+    "full_description": "L’une de nos séries de luminaires préférées. Rien d’étonnant puisqu’elle bénéficie d’un design intemporel qui lui permet de s’adapter partout. Combinez plusieurs lampes de la série et créez un ensemble agréable pour un éclairage tout en douceur.",
+    "materials": "Abat-jour: 100% polyester \\n\\ Tube/ Socle: acier, Nickelé, brossé, revêtement acrylique",
+    "maintenance": null
+  },
+  {
+    "id": 4,
+    "picture": "../assets/products_images/4.jpg",
+    "name": "ÅSKMULLER",
+    "price": 19.99,
+    "description": "Lampe de table, 24 cm",
+    "full_description": "Une version moderne de la traditionnelle lampe à pétrole. L'ampoule visible ressemble à une flamme rouge et diffuse une lumière douce et agréable, dont l'intensité lumineuse est réglable si besoin.",
+    "materials": "Base: acier, Revêtement (poudre) \\n\\ Abat-jour: verre",
+    "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Terminer en essuyant avec un chiffon sec."
+  },
+  {
+    "id": 5,
+    "picture": "../assets/products_images/5.jpg",
+    "name": "TÅGARP",
+    "price": 12.99,
+    "description": "Lampadaire/liseuse",
+    "full_description": "Deux lampes en une et le tout pour un petit prix. L'une diffuse une lumière dirigée vers le haut, l'autre est une lampe idéale pour la lecture car vous pouvez l'orienter comme vous le souhaitez. Les deux sont en partie fabriquées en polyester recyclé.",
+    "materials": "Base/ Douille pour lampe: plastique polypropylène (min. 20 % recyclé) \\n\\ Abat-jour: polypropylène \\n\\ Tube: acier, Revêtement (poudre) \\n\\ Poids: béton \\n\\ Articulation flexible: acier, peinture laque",
+    "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Essuyer avec un chiffon sec."
+  },
+  {
+    "id": 6,
+    "picture": "../assets/products_images/6.jpg",
+    "name": "SOLKLINT",
+    "price": 24.99,
+    "description": "Lampe de table, 28 cm",
+    "full_description": "Comme de petits joyaux de cuivre et de verre teinté en gris, les lampes de la série SOLKLINT diffusent une lumière douce et forment de jolies ombres au mur et au plafond quel que soit l'endroit où vous les installez.",
+    "materials": "Base: Plastique polycarbonate \\n\\ Décoration: acier, Nickelé, revêtement acrylique, peinture laque \\n\\ Abat-jour: verre, peinture acrylique",
+    "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Essuyer avec un chiffon sec."
+  },
+  {
+    "id": 7,
+    "picture": "../assets/products_images/7.jpg",
+    "name": "TÄRNABY",
+    "price": 24.99,
+    "description": "Lampe de table",
+    "full_description": "Inspirée par les anciennes lampes à pétrole, cette lampe diffuse une lumière douce et crée une ambiance chaleureuse. L'ampoule visible ressemble à une vraie flamme et vous pouvez régler l'intensité lumineuse grâce au variateur intégré.",
+    "materials": "Base: acier, Revêtement (poudre) \\n\\ Support abat-jour: acier inoxydable, Nickelé, revêtement acrylique \\n\\ Bouton: acier, Nickelé, revêtement acrylique \\n\\ Abat-jour: verre",
+    "maintenance": "Dépoussiérez la lampe à l'aide d'un plumeau."
+  },
+  {
+    "id": 8,
+    "picture": "../assets/products_images/8.jpg",
+    "name": "BÖJA",
+    "price": 49.99,
+    "description": "Lampe de table",
+    "full_description": "L'abat-jour en bambou tressé projette des motifs décoratifs au mur.",
+    "materials": "Pied: acier inoxydable \\n\\ Abat-jour: bambou \\n\\ Poids socle: Fonte",
+    "maintenance": "Dépoussiérez la lampe à l'aide d'un plumeau."
+  },
+  {
+    "id": 9,
+    "picture": "../assets/products_images/9.jpg",
+    "name": "HÅRTE",
+    "price": 19.99,
+    "description": "Lampe de bureau à LED",
+    "full_description": "Peut se brancher sur le port USB de votre ordinateur. Vous pouvez diriger la lumière vers le haut ou le bas. Fabriquée avec des tubes métalliques courbes. Une forme simple et basique qui s’intègre dans la plupart des intérieurs.",
+    "materials": "Abat-jour: aluminium, anodisé \\n\\ Joint flexible: acier \\n\\ Cache: caoutchouc synthétique \\n\\ Base: acier, Revêtement (poudre)",
+    "maintenance": "Essuyer avec un chiffon sec"
+  },
+  {
+    "id": 10,
+    "picture": "../assets/products_images/10.jpg",
+    "name": "LERGRYN / SKAFTET",
+    "price": 99.99,
+    "description": "Pied lampadaire, arceau noir",
+    "full_description": "Avec ce lampadaire, vous profitez d’un éclairage depuis le haut, sans sortie au plafond. Et puisque vous pouvez faire glisser le pied de la lampe sous un canapé pour un gain de place. Une solution astucieuse et adaptable, n'est-ce pas ?",
+    "materials": "Cadre: acier, revêtement époxy/polyester (poudre) \\n\\ Abat-jour: Polystyrène \\n\\ Décoration: 100 % polyester \\n\\ Support abat-jour: plastique ABS \\n\\ Cache/ Tube/ Anneau d'abat-jour/ Douille pour lampe: acier, revêtement époxy/polyester (poudre) \\n\\ Poids: Plastique EVA renforcé",
+    "maintenance": "Abat-jour: Nettoyer avec un plumeau. \\n\\ Pied lampadaire, arceau noir: Nettoyer avec un chiffon imbibé d'un détergent doux. Terminer en essuyant avec un chiffon sec."
+  }
+]

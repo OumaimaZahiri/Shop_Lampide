@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "user_id": 4,
+      "products":
+      [{
+        "product":
+        {
+          "id":  1,
+          "picture": "../assets/products_images/1.jpg",
+          "name": "TVÄRHAND",
+          "price": 19.99,
+          "description": "Lampe de table",
+          "full_description": "La beauté est dans la simplicité. Une expression qui s'applique particulièrement bien à cette lampe de table en métal incurvé et base en bambou pour un joli contraste. Ajoutez-y une ampoule décorative qui vous plaît pour compléter le tout.",
+          "materials": "Base: bambou, Vernis polyuréthane-acrylique incolore \\n\\ Tube-Douille pour lampe acier revêtement époxy/polyester (poudre)",
+          "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Essuyer avec un chiffon sec."
+        },
+        "quantity": 100
+      }],
+      "total_price": 1999.00
+    },
+    {
+      "id": 2,
+      "user_id": 5,
+      "products": 
+      [
+        {
+            "product": 
+            {
+              "id": 3,
+              "picture": "../assets/products_images/3.jpg",
+              "name": "ÅRSTID",
+              "price": 29.99,
+              "description": "Lampe de bureau",
+              "full_description": "L’une de nos séries de luminaires préférées. Rien d’étonnant puisqu’elle bénéficie d’un design intemporel qui lui permet de s’adapter partout. Combinez plusieurs lampes de la série et créez un ensemble agréable pour un éclairage tout en douceur.",
+              "materials": "Abat-jour: 100% polyester \\n\\ Tube/ Socle: acier, Nickelé, brossé, revêtement acrylique",
+              "maintenance": null
+            },
+            "quantity": 1
+        },
+        {
+            "product": 
+            {
+              "id": 5,
+              "picture": "../assets/products_images/5.jpg",
+              "name": "TÅGARP",
+              "price": 12.99,
+              "description": "Lampadaire/liseuse",
+              "full_description": "Deux lampes en une et le tout pour un petit prix. L'une diffuse une lumière dirigée vers le haut, l'autre est une lampe idéale pour la lecture car vous pouvez l'orienter comme vous le souhaitez. Les deux sont en partie fabriquées en polyester recyclé.",
+              "materials": "Base/ Douille pour lampe: plastique polypropylène (min. 20 % recyclé) \\n\\ Abat-jour: polypropylène \\n\\ Tube: acier, Revêtement (poudre) \\n\\ Poids: béton \\n\\ Articulation flexible: acier, peinture laque",
+              "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Essuyer avec un chiffon sec."
+            },
+            "quantity": 2
+        }
+      ],
+      "total_price": 55.97
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "products": 
+      [
+        {
+            "product":
+            {
+              "id": 10,
+              "picture": "../assets/products_images/10.jpg",
+              "name": "LERGRYN / SKAFTET",
+              "price": 99.99,
+              "description": "Pied lampadaire, arceau noir",
+              "full_description": "Avec ce lampadaire, vous profitez d’un éclairage depuis le haut, sans sortie au plafond. Et puisque vous pouvez faire glisser le pied de la lampe sous un canapé pour un gain de place. Une solution astucieuse et adaptable, n'est-ce pas ?",
+              "materials": "Cadre: acier, revêtement époxy/polyester (poudre) \\n\\ Abat-jour: Polystyrène \\n\\ Décoration: 100 % polyester \\n\\ Support abat-jour: plastique ABS \\n\\ Cache/ Tube/ Anneau d'abat-jour/ Douille pour lampe: acier, revêtement époxy/polyester (poudre) \\n\\ Poids: Plastique EVA renforcé",
+              "maintenance": "Abat-jour: Nettoyer avec un plumeau. \\n\\ Pied lampadaire, arceau noir: Nettoyer avec un chiffon imbibé d'un détergent doux. Terminer en essuyant avec un chiffon sec."
+            },
+            "quantity": 1
+        },
+        {
+            "product":
+            {
+              "id": 8,
+              "picture": "../assets/products_images/8.jpg",
+              "name": "BÖJA",
+              "price": 49.99,
+              "description": "Lampe de table",
+              "full_description": "L'abat-jour en bambou tressé projette des motifs décoratifs au mur.",
+              "materials": "Pied: acier inoxydable \\n\\ Abat-jour: bambou \\n\\ Poids socle: Fonte",
+              "maintenance": "Dépoussiérez la lampe à l'aide d'un plumeau."
+            },
+            "quantity": 3
+        },
+        {
+            "product":
+            {
+              "id": 6,
+              "picture": "../assets/products_images/6.jpg",
+              "name": "SOLKLINT",
+              "price": 24.99,
+              "description": "Lampe de table, 28 cm",
+              "full_description": "Comme de petits joyaux de cuivre et de verre teinté en gris, les lampes de la série SOLKLINT diffusent une lumière douce et forment de jolies ombres au mur et au plafond quel que soit l'endroit où vous les installez.",
+              "materials": "Base: Plastique polycarbonate \\n\\ Décoration: acier, Nickelé, revêtement acrylique, peinture laque \\n\\ Abat-jour: verre, peinture acrylique",
+              "maintenance": "Nettoyer avec un chiffon imbibé d'un détergent doux. Essuyer avec un chiffon sec."
+            },
+            "quantity": 1
+        }
+      ],
+      "total_price": 274.95
+    }
+  ]

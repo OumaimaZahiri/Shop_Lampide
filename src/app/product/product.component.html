@@ -1,0 +1,26 @@
+        <div *ngIf="!_showDetails">
+          <a>
+            <img class="hover:grow hover:shadow-lg" src="{{ productProp.picture }}">
+          <div class="pt-3 flex items-center justify-between">
+            <p class="">{{ productProp.name }}</p>
+            <b>x {{ _number }}</b>
+          </div>
+            <p class="pt-1 text-gray-900">= {{  productProp.price*_number | currency:'EUR' }}</p>
+        </a>
+          </div>
+
+          <div *ngIf="_showDetails" class="details ">
+            <a>
+                <img class="hover:grow hover:shadow-lg" height="400" width="400" src="{{ productDetails.picture }}">
+              <div class="pt-3 items-center justify-between">
+                <p class="">{{ productDetails.name }}</p>
+              </div>
+              <p class="pt-1 text-gray-900">{{ productDetails.price.toString() | currency:'EUR' }}</p>
+              <p class="pt text-gray-900">{{ productDetails.description }}</p>
+              <p class="pt-1 flex text-gray-900">{{ productDetails.full_description }}</p>
+              <p class="pt-1 text-gray-900">{{ productDetails.materials }}</p>
+              <p class="pt-1 text-gray-900">{{ productDetails.maintenance }}</p>
+            </a>
+          </div>
+
+      
